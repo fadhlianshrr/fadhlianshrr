@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Welcome to my page!
 I'm Fadhli, Student & part-time coder and graphics designer from 🇮🇩
 - 🌱 I’m currently learning -
 - 🔭 I’m currently working on Laravel Framework
