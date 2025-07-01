@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my page!
-I'm Fadhli, Fullstack developer and Student @ 🇮🇩
-- 🔭 I’m currently working on @apu
-- 🌱 I’m currently learning Laravel Framework
-- 📫 How to reach me: email@email.com
+I'm a student 🇮🇩, still learning about this world!
+
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+
