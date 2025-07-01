@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Welcome to my page!
-I'm a student, part-time coder and graphics designer
+I'm Fadhli, Student & part-time coder and graphics designer from
 - 🌱 I’m currently learning -
 - 🔭 I’m currently working on Laravel Framework
 
