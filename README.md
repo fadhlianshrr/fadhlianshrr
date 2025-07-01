@@ -42,13 +42,6 @@ I'm a student, part-time coder and graphics designer
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/@snickersgains) 
 
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadhlianshrr/fadhlianshrr/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadhlianshrr/fadhlianshrr/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fadhlianshrr/fadhlianshrr/output/pacman-contribution-graph.svg">
-</picture>
-
-###
 
 
 
