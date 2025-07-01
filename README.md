@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on @apu
-🌱 I’m currently learning Laravel Framework
-📫 How to reach me: email@email.com
+- 🔭 I’m currently working on @apu
+- 🌱 I’m currently learning Laravel Framework
+- 📫 How to reach me: email@email.com
