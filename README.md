@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Fadhli, Student & part-time coder and graphics designer from 🇮🇩
+Heloww
 - 🌱 I’m currently learning -
 - 🔭 I’m currently working on -
 
