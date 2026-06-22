@@ -77,9 +77,12 @@
 </div>
 
 ###
-<h2 align="center">Working on it</h2>
+<h2 align="center">Current Projects on FnB (Seger Solo)</h2>
+<p align="left">
+    <img alt="cola" src="/cola.png">
+    <img alt="matcha" src="/matcha.png"
+</p>
 
-###
 
 
 
