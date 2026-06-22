@@ -4,6 +4,7 @@
 <h4 align="center">Hey! I'm Fadhli!</h4>
 
 ###
+
 <h2 align="center">Product Designer | UX & Visual Design<br>Based in Jakarta, ID | Head Team</h2>
 
 ###
@@ -21,7 +22,8 @@
 </div>
 
 ###
-<h4 align="center">Stack</h2>
+
+<h2 align="center">Stack</h2>
 
 ###
 
@@ -89,6 +91,7 @@
 </div>
 
 ###
+
 <h2 align="center">Current Projects on FnB (Seger Solo)</h2>
 <p align="left">
     <img alt="cola" src="/cola.png">
