@@ -72,10 +72,10 @@
   <img src="https://skillicons.dev/icons?i=illustrator" height="40" alt="illustrator" />
   <img width="12" />
 
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="43" alt="scikit-learn logo" />
+  <img src="https://skillicons.dev/icons?i=aftereffects" height="40" alt="after effects" />
   <img width="12" />
 
-  <img src="https://skillicons.dev/icons?i=aftereffects" height="40" alt="after effects" />
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="43" alt="scikit-learn logo" />
   <img width="12" />
 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="43" alt="opencv logo" />
