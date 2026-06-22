@@ -1,35 +1,85 @@
-## Hey! I'm Fadhli!
+<p align="center">
+    <img alt="9titans9" src="/9titans9.png">
+</p>
+<h2 align="center">Hey! I'm Fadhli!</h2>
 
-<!--
-**fadhlianshrr/fadhlianshrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
+<h4 align="center">Product Designer | UX & Visual Design<br>Based in Jakarta, Indonesia | Head Team</h4>
 
-Here are some ideas to get you started:
+###
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://www.instagram.com/fadhlianshrr/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/fadhli-ridhoaji-9359b6406/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:fadhliwithouty@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="23" alt="gmail logo"  />
+  </a>
+</div>
 
+###
+<h2 align="center">Stack</h2>
 
-![Python](https://img.shields.io/badge/python-%233572A0.svg?style=for-the-badge&logo=python&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="43" alt="html5 logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="43" alt="css3 logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="43" alt="javascript logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="43" alt="tailwindcss logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
+  <img width="12" />
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@fadhlianshrr) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fadhlifayerid@yahoo.com) 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="43" alt="nextjs logo"  />
+  <img width="12" />
 
+  <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/1*elhu-42TzQEdsFjKDbQhhA.png" height="43" alt="react query logo"  />
+  <img width="12" />
+  
+  <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
+  <img width="12" />
 
-# GitHub stats:
-![](https://github-readme-stats.vercel.app/api?username=fadhlianshrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fadhlianshrr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fadhlianshrr&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="left">
+    
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
+  <img width="12" />
+  
+  <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop" />
+  <img width="12" />
 
+  <img src="https://skillicons.dev/icons?i=illustrator" height="40" alt="illustrator" />
+  <img width="12" />
 
----
-[![](https://visitcount.itsvg.in/api?id=fadhlianshrr&icon=0&color=0)](https://visitcount.itsvg.in)
+  <img src="https://skillicons.dev/icons?i=aftereffects" height="40" alt="after effects" />
+  <img width="12" />
+
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker" />
+  <img width="12" />
+
+  <img src="https://devicons.railway.com/i/railway-light.svg" height="40" alt="railway" />
+  <img width="12" />
+
+  <img src="https://devicons.railway.com/i/n8n.svg" height="40" alt="n8n" />
+  <img width="12" />
+
+  <img src="https://files.raycast.com/83i2w4in6yeldptw11g5ecsmap1l" height="40" alt="dokploy" />
+</div>
+
+###
+<h2 align="center">Working on it</h2>
+
+###
 
 
 
