@@ -4,7 +4,7 @@
 <h2 align="center">Hey! I'm Fadhli!</h2>
 
 ###
-<h4 align="center">Product Designer | UX & Visual Design<br>Based in Jakarta, Indonesia | Head Team</h4>
+<h4 align="center">Product Designer | UX & Visual Design<br>Based in Jakarta, ID | Head Team</h4>
 
 ###
 
