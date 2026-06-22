@@ -50,6 +50,12 @@
   <img src="https://cdn.simpleicons.org/supabase/3ECF8E" height="40" alt="supabase logo"  />
   <img width="12" />
 
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" height="43" alt="pytorch logo" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="43" alt="tensorflow logo" />
+  <img width="12" />
+
 <div align="left">
     
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
@@ -61,7 +67,13 @@
   <img src="https://skillicons.dev/icons?i=illustrator" height="40" alt="illustrator" />
   <img width="12" />
 
+  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="43" alt="scikit-learn logo" />
+  <img width="12" />
+
   <img src="https://skillicons.dev/icons?i=aftereffects" height="40" alt="after effects" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="43" alt="opencv logo" />
   <img width="12" />
 
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker" />
