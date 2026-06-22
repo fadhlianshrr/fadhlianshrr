@@ -1,11 +1,11 @@
 <p align="center">
     <img alt="9titans9" src="/9titans9.png">
 </p>
-<h4 align="center">Hey! I'm Fadhli!</h4>
+<h2 align="center">Hey! I'm Fadhli!</h2>
 
 ###
 
-<h2 align="center">Product Designer | UX & Visual Design<br>Based in Jakarta, ID | Head Team</h2>
+<h4 align="center">Product Designer | UX & Visual Design<br>Based in Jakarta, ID | 7SoS Head Team</h4>
 
 ###
 
