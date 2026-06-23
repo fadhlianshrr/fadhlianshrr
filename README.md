@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">FED - Product Designer | UX & Creative Design<br>Based in Jakarta, Indonesia | 7SoS Head Team</h4>
+<h4 align="center">CSAI - Product Designer | UX & Creative Design<br>Based in Jakarta, Indonesia | 7SoS Head Team</h4>
 
 ###
 
