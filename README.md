@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">Product Designer | UX & Visual Design<br>Based in Jakarta, Indonesia | 7SoS Head Team</h4>
+<h4 align="center">Product Designer | UX & Creative Design<br>Based in Jakarta, Indonesia | 7SoS Head Team</h4>
 
 ###
 
