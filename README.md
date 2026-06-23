@@ -63,7 +63,7 @@
 
 <div align="center">
     
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="43" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="43" alt="cplusplus logo" />
   <img width="12" />
   
   <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="photoshop" />
