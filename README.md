@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">CSAI-Product Minded | UX & Creative Design<br>Based in Jakarta, ID | 7SoS Head Team</h4>
+<h4 align="center">CSAI - Product Minded | UX & Creative Design<br>Based in Jakarta, ID | 7SoS Head Team</h4>
 
 ###
 
