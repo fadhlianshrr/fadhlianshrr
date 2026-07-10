@@ -5,7 +5,7 @@
 
 ###
 
-<h4 align="center">CSAI - Product Minded | UX & Creative Design<br>Based in Jakarta, Indonesia | 7SoS Head Team</h4>
+<h4 align="center">CSAI Student - Product Minded | UX & Creative Design<br>Based in Jakarta, Indonesia </h4>
 
 ###
 
@@ -98,11 +98,6 @@
 
 ###
 
-<h2 align="center">Current Projects on FnB (Seger Solo)</h2>
-<p align="left">
-    <img alt="cola" src="/cola.png">
-    <img alt="matcha" src="/matcha.png"
-</p>
 
 
 
